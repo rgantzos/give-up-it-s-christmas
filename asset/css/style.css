@@ -1,0 +1,9 @@
+@import "{{ site.theme }}";
+
+div.wrapper > p.view {
+  display: none;
+}
+
+footer > p > small {
+  display: none;
+}
