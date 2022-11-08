@@ -1,0 +1,5 @@
+title: give up, it's christmas
+description: time to give into the monstrosity of christmas music and santa hats 2 months early
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
